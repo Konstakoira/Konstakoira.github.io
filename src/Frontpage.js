@@ -1,10 +1,10 @@
 import React from "react";
+import "./css/FrontPage.css";
+import Navbar from './components/Navbar';
 
 const FrontPage = () => {
     return (
-        <div className="firstView">
-            <h1>Kissatkoiria</h1>
-        </div>
+        <Navbar></Navbar>
     );
 };
 
