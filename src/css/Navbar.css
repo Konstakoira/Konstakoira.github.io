@@ -1,37 +1,47 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+}
+
 .NavButtons{
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .name {
     display: flex;
+    font-size: 3vh;
+    margin: 2vh;
     align-items: start;
 }
 
 .ProfileButton {
-    width: 8vh;
+    width: 11vh;
     height: 5vh;
-    background-color: blueviolet;
+    font-size: 3vh;
+    color: #24A6C2;
     border: 0px;
     margin: 10px;
-    border-radius: 15%;
+    border-radius: 15px;
 }
 
 .ProjectButton {
-    width: 8vh;
+    width: 11vh;
     height: 5vh;
-    background-color: brown;
+    font-size: 3vh;
+    color: #24A6C2;
     border: 0px;
     margin: 10px;
-    border-radius: 15%;
+    border-radius: 15px;
 }
 
 .CvButton {
-    width: 8vh;
+    width: 11vh;
     height: 5vh;
-    background-color: aqua;
+    font-size: 3vh;
+    color: #24A6C2;
     border: 0px;
     margin: 10px;
-    border-radius: 15%;
+    border-radius: 15px;
 }

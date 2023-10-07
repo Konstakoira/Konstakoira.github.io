@@ -1,29 +1,29 @@
 import '../css/Navbar.css';
 import React from 'react';
 
-const Navbar = () => {
+const NavbarView = () => {
     return(
-        <div style={{display: 'flex', flexDirection: 'row'}}>
-            <h1 className='name'>Konsta Perttilä</h1>
+        <div className='NavBar' style={{display: 'flex', flexDirection: 'row'}}>
+            <h1 className='name'>KP</h1>
             <div className='NavButtons'>
-                <button
+                <a
                     className='ProfileButton'
                     onClick={'Go to profile'}>
                         Profile
-                </button>
-                <button
+                </a>
+                <a
                     className='ProjectButton'
                     onClick={'Go to Projects'}>
                         Projects
-                </button>
-                <button
+                </a>
+                <a
                     className='CvButton'
                     onClick={'Go to CV'}>
                         CV
-                </button>
+                </a>
             </div>
         </div>
     );
 };
 
-export default Navbar;
+export default NavbarView;

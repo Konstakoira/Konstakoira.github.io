@@ -1,10 +1,18 @@
 import React from "react";
 import "./css/FrontPage.css";
-import Navbar from './components/Navbar';
+import NavbarView from './components/Navbar';
+import ProfileView from "./components/Profile";
 
 const FrontPage = () => {
     return (
-        <Navbar/>
+        <div>
+        <div>
+        <NavbarView/>
+        </div>
+        <div>
+        <ProfileView/>
+        </div>
+        </div>
     );
 };
 

@@ -1,0 +1,21 @@
+.ProfileView {
+ margin: 5vh;
+}
+
+.ProfileFirstText {
+ margin: 1vh;
+ font-size: 2vh;
+ color: #24A6C2;
+}
+
+.ProfileSecondText {
+ margin: 1vh;
+ font-size: 5vh;
+ color: #1c73c4;
+}
+
+.ProfileThirdText {
+ margin: 1vh;
+ font-size: 3vh;
+ color: #7e7e7e;
+}
