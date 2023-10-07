@@ -4,8 +4,8 @@ import Frontpage from "./Frontpage";
 
 function App() {
   return (
-    <div>
-        <header>
+    <div className='App'>
+        <header className='App-header'>
             <Frontpage/>
         </header>
     </div>

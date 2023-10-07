@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 
 const FrontPage = () => {
     return (
-        <Navbar></Navbar>
+        <Navbar/>
     );
 };
 
