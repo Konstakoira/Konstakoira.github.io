@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.184415f5.css",
-    "main.js": "/static/js/main.ad8a913e.js",
+    "main.css": "/static/css/main.d355e64e.css",
+    "main.js": "/static/js/main.2f320f99.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
     "static/media/sirpa1.png": "/static/media/sirpa1.35496541da8b95c50968.png",
     "static/media/CV_Konsta_Perttilä.png": "/static/media/CV_Konsta_Perttilä.9fe5b323a11fd08f4405.png",
@@ -10,12 +10,12 @@
     "static/media/webshop2.png": "/static/media/webshop2.c6bdb8ab1ba3b2d61cc4.png",
     "static/media/DSC02332.jpg": "/static/media/DSC02332.44087efc708d1a902dbf.jpg",
     "index.html": "/index.html",
-    "main.184415f5.css.map": "/static/css/main.184415f5.css.map",
-    "main.ad8a913e.js.map": "/static/js/main.ad8a913e.js.map",
+    "main.d355e64e.css.map": "/static/css/main.d355e64e.css.map",
+    "main.2f320f99.js.map": "/static/js/main.2f320f99.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.184415f5.css",
-    "static/js/main.ad8a913e.js"
+    "static/css/main.d355e64e.css",
+    "static/js/main.2f320f99.js"
   ]
 }
