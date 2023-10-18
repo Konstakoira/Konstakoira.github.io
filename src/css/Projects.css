@@ -1,0 +1,38 @@
+.ProjectsAll {
+    display: flex;
+    flex-direction: row;
+}
+
+.ProjectImage{
+    width: 40vh;
+    height: 70vh;
+    margin-right: 5vh;
+}
+
+.EachProject {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10vh;
+    margin-right: 10vh;
+}
+
+.DataTexts {
+    display: flex;
+    margin: 5vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.AllProjects {
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+    box-shadow: 0 4px 8px 0 #14141D;
+}
+
+.ProjectsText {
+    font-size: 2vh;
+}

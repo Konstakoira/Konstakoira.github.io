@@ -1,0 +1,9 @@
+.FooterViewWhole{
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+  margin: 2vh;
+  font-size: 5vh;
+}

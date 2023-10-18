@@ -1,0 +1,46 @@
+.AboutView{
+    display: flex;
+    flex-direction: row;
+}
+
+.AboutViewTexts {
+    display: flex;
+    flex-direction: column;
+    margin: 2vh;
+    padding: 3vh;
+    box-shadow: 0 4px 8px 0 #14141D;
+    transform: rotate(3deg);
+    border-radius: 15px;
+}
+
+.AboutViewAbout {
+    font-size: 5vh;
+    display: flex;
+    align-self: center;
+}
+
+h3 {
+    font-size: 2vh;
+    margin: 3vh;
+}
+
+.AboutPictureOfMe {
+    width: 50vh;
+    height: 35vh;
+    margin: 2vh;
+    box-shadow: 0 4px 8px 0 #14141D;
+    transform: rotate(-3deg);
+    border-radius: 15px;
+}
+
+.PictureOfMe {
+    width: 49vh;
+    height: 35vh;
+    border-radius: 15px;
+}
+
+.AboutInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

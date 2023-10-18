@@ -1,0 +1,97 @@
+
+
+.FrontNavBar {
+    position: sticky;
+    top: 1vh;
+    width: 100vh;
+    height: 10vh;
+}
+
+.FrontProfile {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FrontAbout {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FrontProjects {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.FrontFooter {
+    width: 100vh;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FrontCv {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px 0 #14141D;
+}
+
+.NavButtons{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.name {
+    display: flex;
+    font-size: 3vh;
+    margin: 2vh;
+    align-items: start;
+}
+
+.ProfileButton {
+    width: 11vh;
+    height: 5vh;
+    font-size: 3vh;
+    color: #24A6C2;
+    border: 0px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.ProjectButton {
+    width: 11vh;
+    height: 5vh;
+    font-size: 3vh;
+    color: #24A6C2;
+    border: 0px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.CvButton {
+    width: 11vh;
+    height: 5vh;
+    font-size: 3vh;
+    color: #24A6C2;
+    border: 0px;
+    margin: 10px;
+    border-radius: 15px;
+}

@@ -1,5 +1,6 @@
 import '../css/Navbar.css';
 import React from 'react';
+import ProfileView from './Profile';
 
 const NavbarView = () => {
     return(
@@ -8,7 +9,7 @@ const NavbarView = () => {
             <div className='NavButtons'>
                 <a
                     className='ProfileButton'
-                    onClick={'Go to profile'}>
+                    onClick={ProfileView}>
                         Profile
                 </a>
                 <a
