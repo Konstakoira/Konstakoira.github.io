@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.9fb3c5bc.css",
-    "main.js": "/static/js/main.c7c48293.js",
+    "main.js": "/static/js/main.af43c724.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
     "static/media/sirpa1.png": "/static/media/sirpa1.35496541da8b95c50968.png",
-    "static/media/CV_Konsta_Perttilä.png": "/static/media/CV_Konsta_Perttilä.9fe5b323a11fd08f4405.png",
+    "static/media/Cv_perttilä.png": "/static/media/Cv_perttilä.e6c4997acee184b20521.png",
     "static/media/login.jpg": "/static/media/login.aa39320a38152521ee71.jpg",
     "static/media/rc_3.png": "/static/media/rc_3.5af6b95aa892b6cb5aea.png",
     "static/media/webshop2.png": "/static/media/webshop2.c6bdb8ab1ba3b2d61cc4.png",
     "static/media/DSC02332.jpg": "/static/media/DSC02332.44087efc708d1a902dbf.jpg",
     "index.html": "/index.html",
     "main.9fb3c5bc.css.map": "/static/css/main.9fb3c5bc.css.map",
-    "main.c7c48293.js.map": "/static/js/main.c7c48293.js.map",
+    "main.af43c724.js.map": "/static/js/main.af43c724.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fb3c5bc.css",
-    "static/js/main.c7c48293.js"
+    "static/js/main.af43c724.js"
   ]
 }
