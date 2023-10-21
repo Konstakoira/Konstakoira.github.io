@@ -1,5 +1,5 @@
 import React from "react";
-import CV from '../media/CV_Konsta_Perttilä.png'
+import CV from '../media/Cv_perttilä.png'
 import "../css/Cv.css"
 
 const CvView = () => {

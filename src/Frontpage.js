@@ -1,6 +1,5 @@
 import React, {useRef, useState} from 'react';
 import "./css/FrontPage.css";
-import NavbarView from './components/Navbar';
 import ProfileView from "./components/Profile";
 import AboutView from "./components/About";
 import ProjectsView from "./components/Projects";
@@ -33,7 +32,7 @@ const FrontPage = () => {
                 <h1 className='name'>KP</h1>
                 <div className='NavButtons'>
                     <a
-                        style={{background: isDragging ? '#2B2B33' : '#14141D', transition: 'background 0.3s'}}
+                        style={{color: isDragging ? '#1c73c4' : '#24A6C2', transition: 'background 0.3s'}}
                         onMouseEnter={() => setIsDragging(true)}
                         onMouseLeave={() => setIsDragging(false)}
                         className='ProfileButton'
@@ -41,7 +40,7 @@ const FrontPage = () => {
                             About
                     </a>
                     <a
-                        style={{background: isDragging2 ? '#2B2B33' : '#14141D', transition: 'background 0.3s'}}
+                        style={{color: isDragging2 ? '#1c73c4' : '#24A6C2', transition: 'background 0.3s'}}
                         onMouseEnter={() => setIsDragging2(true)}
                         onMouseLeave={() => setIsDragging2(false)}
                         className='ProjectButton'
@@ -49,7 +48,7 @@ const FrontPage = () => {
                             Projects
                     </a>
                     <a
-                        style={{background: isDragging3 ? '#2B2B33' : '#14141D', transition: 'background 0.3s'}}
+                        style={{color: isDragging3 ? '#1c73c4' : '#24A6C2', transition: 'background 0.3s'}}
                         onMouseEnter={() => setIsDragging3(true)}
                         onMouseLeave={() => setIsDragging3(false)}
                         className='CvButton'

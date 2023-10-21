@@ -50,7 +50,7 @@
 .NavBar {
     display: flex;
     justify-content: space-between;
-    box-shadow: 0 4px 8px 0 #14141D;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
 
 .NavButtons{
