@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e8e00382.css",
-    "main.js": "/static/js/main.e508d097.js",
+    "main.js": "/static/js/main.79b9761f.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
     "static/media/sirpa3.png": "/static/media/sirpa3.3e1bd2abeb3a5ae4b423.png",
     "static/media/sirpa6.png": "/static/media/sirpa6.282b909edd8125311f83.png",
@@ -35,9 +35,18 @@
     "static/media/webshop2.png": "/static/media/webshop2.c6bdb8ab1ba3b2d61cc4.png",
     "static/media/rc_6.png": "/static/media/rc_6.c9f297eb24079c698f3c.png",
     "static/media/rc_2.png": "/static/media/rc_2.34937e95bd9f84b04100.png",
+    "static/media/Safkalog1.png": "/static/media/Safkalog1.58fb3274e8c6104449fa.png",
+    "static/media/Safkalog6.png": "/static/media/Safkalog6.96b554c5ac93ce431335.png",
+    "static/media/Safkalog7.png": "/static/media/Safkalog7.fd7e766eea7ce7e292ea.png",
+    "static/media/Safkalog8.png": "/static/media/Safkalog8.923c69d24624f955ed28.png",
+    "static/media/Safkalog2.png": "/static/media/Safkalog2.b4279a537dcf3232f37e.png",
+    "static/media/Safkalog5.png": "/static/media/Safkalog5.a6a3f2e41f90ec890b08.png",
     "static/media/NokiaMobile3.png": "/static/media/NokiaMobile3.08a9d33994e31e5d9fb4.png",
     "static/media/NokiaMobile7.png": "/static/media/NokiaMobile7.6fd2a32e580010c184c3.png",
+    "static/media/Safkalog4.png": "/static/media/Safkalog4.383bd283096b1629c94d.png",
     "static/media/NokiaMobile5.png": "/static/media/NokiaMobile5.f91279eca7571f854c97.png",
+    "static/media/Safkalog9.png": "/static/media/Safkalog9.f9ca721fe957ce1ce8ad.png",
+    "static/media/Safkalog3.png": "/static/media/Safkalog3.e653c9f3b01d7a59ce72.png",
     "static/media/NokiaMobile1.png": "/static/media/NokiaMobile1.31416ddf67f403e897ab.png",
     "static/media/NokiaMobile2.png": "/static/media/NokiaMobile2.06a175dda80d0306fcb1.png",
     "static/media/NokiaMobile6.png": "/static/media/NokiaMobile6.af62c23057b9534cc874.png",
@@ -48,11 +57,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.e8e00382.css.map": "/static/css/main.e8e00382.css.map",
-    "main.e508d097.js.map": "/static/js/main.e508d097.js.map",
+    "main.79b9761f.js.map": "/static/js/main.79b9761f.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8e00382.css",
-    "static/js/main.e508d097.js"
+    "static/js/main.79b9761f.js"
   ]
 }
