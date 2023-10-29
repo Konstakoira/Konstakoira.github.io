@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e8e00382.css",
-    "main.js": "/static/js/main.6c9d73b2.js",
+    "main.js": "/static/js/main.e508d097.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
     "static/media/sirpa3.png": "/static/media/sirpa3.3e1bd2abeb3a5ae4b423.png",
     "static/media/sirpa6.png": "/static/media/sirpa6.282b909edd8125311f83.png",
@@ -35,17 +35,24 @@
     "static/media/webshop2.png": "/static/media/webshop2.c6bdb8ab1ba3b2d61cc4.png",
     "static/media/rc_6.png": "/static/media/rc_6.c9f297eb24079c698f3c.png",
     "static/media/rc_2.png": "/static/media/rc_2.34937e95bd9f84b04100.png",
+    "static/media/NokiaMobile3.png": "/static/media/NokiaMobile3.08a9d33994e31e5d9fb4.png",
+    "static/media/NokiaMobile7.png": "/static/media/NokiaMobile7.6fd2a32e580010c184c3.png",
+    "static/media/NokiaMobile5.png": "/static/media/NokiaMobile5.f91279eca7571f854c97.png",
+    "static/media/NokiaMobile1.png": "/static/media/NokiaMobile1.31416ddf67f403e897ab.png",
+    "static/media/NokiaMobile2.png": "/static/media/NokiaMobile2.06a175dda80d0306fcb1.png",
+    "static/media/NokiaMobile6.png": "/static/media/NokiaMobile6.af62c23057b9534cc874.png",
+    "static/media/NokiaMobile4.png": "/static/media/NokiaMobile4.421aba578d3d73ca2dec.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.e8e00382.css.map": "/static/css/main.e8e00382.css.map",
-    "main.6c9d73b2.js.map": "/static/js/main.6c9d73b2.js.map",
+    "main.e508d097.js.map": "/static/js/main.e508d097.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8e00382.css",
-    "static/js/main.6c9d73b2.js"
+    "static/js/main.e508d097.js"
   ]
 }
