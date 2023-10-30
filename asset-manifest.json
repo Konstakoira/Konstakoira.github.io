@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab719c78.css",
-    "main.js": "/static/js/main.1d7659c5.js",
+    "main.js": "/static/js/main.dfd255be.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
     "static/media/sirpa3.png": "/static/media/sirpa3.3e1bd2abeb3a5ae4b423.png",
     "static/media/sirpa6.png": "/static/media/sirpa6.282b909edd8125311f83.png",
@@ -24,7 +24,7 @@
     "static/media/printser9.jpg": "/static/media/printser9.e9a574db2702dc15a06f.jpg",
     "static/media/rc_10.png": "/static/media/rc_10.2b51adf9002a4d5bfe0c.png",
     "static/media/sirpa7.png": "/static/media/sirpa7.35b4f435b550067995ca.png",
-    "static/media/CV.png": "/static/media/CV.63e49ceb3cde2b45f413.png",
+    "static/media/CV.png": "/static/media/CV.4e2664d0f678947c705c.png",
     "static/media/sirpa9.png": "/static/media/sirpa9.2e67fb71167667d8cdc0.png",
     "static/media/rc_7.png": "/static/media/rc_7.9344a2741c9a31fad6ba.png",
     "static/media/printser2.jpg": "/static/media/printser2.eb05c8de31bceb84ba54.jpg",
@@ -58,11 +58,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.ab719c78.css.map": "/static/css/main.ab719c78.css.map",
-    "main.1d7659c5.js.map": "/static/js/main.1d7659c5.js.map",
+    "main.dfd255be.js.map": "/static/js/main.dfd255be.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab719c78.css",
-    "static/js/main.1d7659c5.js"
+    "static/js/main.dfd255be.js"
   ]
 }
