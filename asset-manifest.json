@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2439c92.css",
-    "main.js": "/static/js/main.4754b9ee.js",
+    "main.js": "/static/js/main.27468fb0.js",
     "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
     "static/media/sirpa3.png": "/static/media/sirpa3.3e1bd2abeb3a5ae4b423.png",
     "static/media/sirpa6.png": "/static/media/sirpa6.282b909edd8125311f83.png",
@@ -24,11 +24,11 @@
     "static/media/printser9.jpg": "/static/media/printser9.e9a574db2702dc15a06f.jpg",
     "static/media/rc_10.png": "/static/media/rc_10.2b51adf9002a4d5bfe0c.png",
     "static/media/sirpa7.png": "/static/media/sirpa7.35b4f435b550067995ca.png",
-    "static/media/CV.png": "/static/media/CV.4e2664d0f678947c705c.png",
     "static/media/sirpa9.png": "/static/media/sirpa9.2e67fb71167667d8cdc0.png",
     "static/media/rc_7.png": "/static/media/rc_7.9344a2741c9a31fad6ba.png",
     "static/media/printser2.jpg": "/static/media/printser2.eb05c8de31bceb84ba54.jpg",
     "static/media/printser5.jpg": "/static/media/printser5.7ada7e961e6849c3d93f.jpg",
+    "static/media/CVPortfolio.png": "/static/media/CVPortfolio.2eb05e339011cdfd5411.png",
     "static/media/printser1.jpg": "/static/media/printser1.aa39320a38152521ee71.jpg",
     "static/media/rc_5.png": "/static/media/rc_5.494f6e11acaf81648169.png",
     "static/media/rc_3.png": "/static/media/rc_3.5af6b95aa892b6cb5aea.png",
@@ -58,11 +58,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d2439c92.css.map": "/static/css/main.d2439c92.css.map",
-    "main.4754b9ee.js.map": "/static/js/main.4754b9ee.js.map",
+    "main.27468fb0.js.map": "/static/js/main.27468fb0.js.map",
     "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2439c92.css",
-    "static/js/main.4754b9ee.js"
+    "static/js/main.27468fb0.js"
   ]
 }
